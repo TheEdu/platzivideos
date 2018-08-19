@@ -4,4 +4,4 @@
 
 
 ## Github Page
-[platzi video](https://theedu.github.io/platzivideo/)
+[platzi video](https://theedu.github.io/platzivideos/)
